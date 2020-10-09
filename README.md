@@ -1,4 +1,7 @@
 # Shortest-path Tree finder
+
+![Demo](https://raw.githubusercontent.com/samul-1/ro/main/demo.gif)
+
 Given a graph, this script traverses it utilizing a breadth-first search (BFS) algorithm, outputting the resulting tree.
 
 If the tree found by the visit is a shortest-path tree (SPT), the program terminates. If not, an SPT is built using a Bellman Ford-like algorithm and subsequently output.
