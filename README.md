@@ -34,13 +34,12 @@ A subsequent version of the program will allow users to specify different root n
 Here's an example input you can use to try the program out yourself. *(This is the graph used during class, Oct 8th.)*
 
 ```
-6
+5
 1
 2
 3
 4
 5
-6
 8
 1
 2
