@@ -1,4 +1,4 @@
-# Shortest-path Tree finder
+# Shortest-Path Tree Finder
 
 ![Demo](https://raw.githubusercontent.com/samul-1/ro/main/demo.gif)
 
