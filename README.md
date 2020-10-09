@@ -17,7 +17,7 @@ All three numbers must be separated by a newline. For example, the edge from nod
 3
 ```
 ## Requirements
-For this program to work correctly, you will need the **networkx** and **matplotlib** installed.
+For this program to work correctly, you will need the **networkx** and **matplotlib** libraries to be installed.
 If you use **pip**, you can install those with the following two commands:
 
 ```
