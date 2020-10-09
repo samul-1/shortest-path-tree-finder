@@ -27,7 +27,7 @@ pip3 install matplotlib
 
 
 ## Beware
-- The current version of this program will only work correctly if there is a node named *1*. This will be used as the source for the BFS visit and will be the root of the tree.
+- The current version of this program will only work correctly if there is a node named **1**. This will be used as the source for the BFS visit and will be the root of the tree.
 A subsequent version of the program will allow users to specify different root nodes.
 - The current version of this program will only work correctly if the input graph is connected. Unconnected parts will not be shown. If you need to use it with a graph that has nodes that are unreachable from node 1, you'll need to add fake edges manually. A later version of this program will take care of this.
 
